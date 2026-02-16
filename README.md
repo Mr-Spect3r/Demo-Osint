@@ -36,6 +36,7 @@ You can also read database information in the terminal by running the `show-db.p
 
 Please note that this version is a demo version of the original version! The original version is for sale!
 
+Best Version For ReSearcher: https://github.com/Mr-Spect3r/TeleHunt
 
 # Vip Version:
 
