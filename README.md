@@ -32,12 +32,14 @@ This file will log into your accounts and start collecting data in parallel and 
 
 You can edit the `bot.py` file at any time, insert the token and chat ID of the admin. Now you can search the database through the Telegram bot!
 
+You can also read database information in the terminal by running the `show-db.py` file!
+
 Please note that this version is a demo version of the original version! The original version is for sale!
 
 
 # Vip Version:
 
-
+<b>
 Ability to manage accounts and add accounts via Telegram bot
 
 Ability to sell information with points (you can share this information) 10 points per search!
@@ -53,5 +55,5 @@ Ability to manage the database optimally
 200GB of data is also for sale
 
 
-By: t.me/MrEsfelurm
+By:</b> https://t.me/MrEsfelurm
 
