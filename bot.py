@@ -2,10 +2,10 @@ import telebot
 import sqlite3
 from telebot import types
 
-TELEGRAM_TOKEN = '8479019969:AAGktRvef7yGnDYR_g1kv3F10MODqPf4NXw'
-
+TELEGRAM_TOKEN = 'Token  Bot'
+ADMIN_ID = 123456789
 DB_FILE = 'db/monitor.db'
-ADMIN_ID = 7295479621
+
 bot = telebot.TeleBot(TELEGRAM_TOKEN)
 
 user_access = {}
@@ -189,3 +189,4 @@ def search_user_messages(user_identifier, limit=10):
     return results
 
 bot.polling(non_stop=True)
+
