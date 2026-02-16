@@ -5,6 +5,8 @@ You can use this tool to collect other people's messages from your accounts into
 This source enters your account via Api Hash\id
 and starts collecting and storing user information in public groups with all accounts!
 
+<img src="https://github.com/user-attachments/assets/8f97a203-dcfb-4f61-a501-bc36751016d4">
+
 Information it stores:
 
 `
